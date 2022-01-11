@@ -27,5 +27,6 @@ k-means and HAC were implemented using the *Statistics and Machine Learning Tool
 https://www.mathworks.com/help/stats/index.html
 
 ----
-Data were obtained from Merrick [1] paper and was normalized.
+Data were obtained from Merrick [1] paper. Data files are in p.u. of bus demand or capacity of generation.
+
 [1] James H. Merrick, *On representation of temporal variability in electricity capacity planning models*, Energy Economics, Vol. 59, 2016, pp. 261-274, https://doi.org/10.1016/j.eneco.2016.08.001.
