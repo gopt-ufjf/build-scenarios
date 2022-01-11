@@ -1,6 +1,6 @@
 # build-scenarios
 
-Please consider citing m-ISODATA references with the following bibtex codes: 
+Please consider citing m-ISODATA with the following bibtex codes: 
 
 @article{POHOM21,
 author = {de Paula, Arthur Neves and de Oliveira, Edimar José and Honório, Leonardo de Mello and de Oliveira, Leonardo Willer and Moraes, Camile Arêdes},
